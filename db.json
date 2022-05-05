@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": 1603033004376,
+      "title": "Ride",
+      "description": "Some Description content",
+      "capacity": 20,
+      "region": "Mysore"
+    },
+    {
+      "id": 1603033320682,
+      "title": "Trek",
+      "description": "Some Description content",
+      "capacity": 12121,
+      "region": "Coorg"
+    },
+    {
+      "id": 1603033329168,
+      "title": "Chill",
+      "description": "Some Description content",
+      "capacity": 20,
+      "region": "Banglore"
+    },
+    {
+      "id": 1603033598763,
+      "title": "Party",
+      "description": "Some Description content",
+      "capacity": 40,
+      "region": "Mumbai"
+    },
+    {
+      "id": 1603033623612,
+      "title": "Hangout",
+      "description": "Some Description content",
+      "capacity": 5000,
+      "region": "Mysore"
+    },
+    {
+      "id": 1651637445014,
+      "title": "BeachOut",
+      "description": "WDQD",
+      "capacity": 1666,
+      "region": "Manglore"
+    },
+    {
+      "id": 1651731845134,
+      "title": "Funzz",
+      "description": "Blah blah blah",
+      "capacity": 50,
+      "region": "Banglore"
+    },
+    {
+      "id": 1651734471683,
+      "title": "BeachShack",
+      "description": "Blah blah blah",
+      "capacity": 20,
+      "region": "GOA",
+      "imgUrl": "https://picsum.photos/id/391/200/200"
+    }
+  ]
+}
